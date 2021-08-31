@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👩🏻‍💻 I'm Nabila, you can also call me Nab if you like
+- 🔭 I'm a beginner in programming, waiting to commence my cadetship at 42 KL
+- 🌱 I'm currently learning mainly C and web development
+- ⚡ Fun fact: A nebula is a distinct body of interstellar clouds
+
 [![nabmd-za's 42 stats](https://badge42.herokuapp.com/api/stats/nabmd-za?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
