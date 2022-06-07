@@ -1,4 +1,6 @@
-### Hi there 👋🏻
+# Hi there 👋🏻
+
+I'm Nabila, an aspiring software developer. The start of my endeavour dates back to Jun 2021 when I had just finished my pre-u.
 
 <!--
 **nabilanmz/nabilanmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,10 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 👩🏻‍💻 I'm Nabila, you can also call me Nab if you like
 - 🔭 I'm a beginner in programming and a Cadet of [42 KL](https://42kl.edu.my/)
 - 🌱 I'm currently learning mainly C and web development
 - ⚡ Fun fact: A nebula is a distinct body of interstellar clouds
 
 [![nabmd-za's 42 stats](https://badge42.herokuapp.com/api/stats/nabmd-za?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+-->
