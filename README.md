@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabila</h1>
 <h3 align="center">An aspiring full stack developer from Malaysia</h3>
-
+<p align="center">The start of my programming endeavour dates back to May 2021 when I'd just finished my pre-university. I'm currently focusing on web and mobile app development.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nabilanmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabilanmz" height="30" width="40" /></a>
